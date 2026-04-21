@@ -1,2 +1,14 @@
 # 100-dayofCcoding
 Tgpcet to google
+#include <stdio.h>
+int main()
+ {
+int a = 56;
+ int b = 34;
+ int add;
+ add = a + b; 
+ printf("First number = %d\n", a);
+ printf("Second number = %d\n", b);
+ printf("Addition = %d", add);
+ return 0;
+}
